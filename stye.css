@@ -2,3 +2,37 @@ header{
 background-color: blueviolet;
 color: black;
 }
+    .cabeçalho{
+
+        background-color: rgb(197, 8, 8);
+        color: black;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 24px 0;
+
+    }
+    .imagem-principal{
+        width: 20%;
+        
+    }
+    .lista-principal{
+        display: inline-block;
+        margin: 0 16px;
+        font-size: 24px;
+    }
+    .futuro{
+        background-color: chartreuse;
+        color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
+
+    }
+    .div-content{
+        width: 35%;
+    }
+    .titulo{
+        padding: 24px 0;
+    }
